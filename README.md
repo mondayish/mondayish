@@ -11,7 +11,7 @@
 👔 [linkedin][linkedin]
 
 [telegram]: https://t.me/mondayish
-[linkedin]: https://www.linkedin.com/in/mikhail-dyakonov-86690b1b5/
+[linkedin]: https://www.linkedin.com/in/mondayish/
 
 
 ### Languages & Tools:
